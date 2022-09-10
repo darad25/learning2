@@ -6,5 +6,3 @@ Acknowledgements
 
 Tech Stack
 Client: Node JS.
-
-Server: Mongo DB
